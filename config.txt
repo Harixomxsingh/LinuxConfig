@@ -1,0 +1,10 @@
+
+os = linuxMint
+terminal = kitty
+terminal = FiraCode Nerd font > FiraCode Nerd font Mono
+package manager = homebrew
+tmux
+nvim > 0.8.8 = lazyvim, astrovim
+
+
+
